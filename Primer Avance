@@ -1,0 +1,14 @@
+
+**¿Qué quiero hacer? **
+
+Obtener los genomas mitocondriales publicados para el phylum Annelida, anotarlos y comparar los locus existentes en terminos de tasa de mutación y la resolución que aportan al realizar análisis filogenéticos.
+
+**¿Cómo lo haré?**
+
+Obteniendo datos de GenBank, anotándolos mediante el servidor de MITOS. Aún estoy buscando el mejor método para calcular la tasa de mutación de un gen. Compararé el soporte de las ramas en árboles obtenidos mediante RAXML para ver cuáles marcadores otorgan resultados más robustos en un análisis de Máxima Verosimilitud.
+
+
+
+
+
+
